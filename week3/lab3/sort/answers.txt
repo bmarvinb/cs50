@@ -1,0 +1,23 @@
+
+
+
+sort1 uses: selection sort
+- random: 7.788s
+- reversed: 5.783s
+- sorted: 0.351s
+
+How do you know?: random is time-consuming, but sorted is fast
+
+sort2 uses: merge sort
+- random: 0.469s
+- reversed: 0.395s
+- sorted: 0.559s
+
+How do you know?: in general, the most efficient algorithms, if we compare them with the other two
+
+sort3 uses: bubble sort
+- random: 3.197s
+- reversed: 3.214s
+- sorted: 3.006s
+
+How do you know?: something between the first and second algorithm so should be a bubble sort
